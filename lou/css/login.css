@@ -1,0 +1,20 @@
+body.login {
+  background:url('../img/bgwebsite.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width:100%;
+  }
+  
+.login h1 a {
+    background: url("../img/logowebsite.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 83px;
+    margin: 0 auto;
+    width: 276px;
+}
+
+.login #backtoblog a, .login #nav a {
+  color:#fff;
+}
+
